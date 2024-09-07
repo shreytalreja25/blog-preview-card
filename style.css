@@ -96,9 +96,9 @@ p {
 }
 
 #card-body-date {
+    margin-top:20px;
     font-size: 0.75rem;
     color: hsl(0, 0%, 50%);
-    margin-top: 10px;
     margin-bottom: 10px;
 }
 
